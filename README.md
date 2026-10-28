@@ -41,7 +41,7 @@ Whether I am writing bare-metal register-level code for microcontrollers or desc
   <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
   <img src="https://img.shields.io/badge/EasyEDA-5581D9?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA" />
   <img src="https://img.shields.io/badge/Yosys_/_OSS_CAD-2E8B57?style=for-the-badge" alt="Yosys" />
-  <img src="https://img.shields.io/badge/Verilator_&_IVerilog-3B4D61?style=for-the-badge" alt="Verilator" />
+  <img src="https://img.shields.io/badge/Icarus_Verilog-3B4D61?style=for-the-badge" alt="Icarus Verilog" />
   <img src="https://img.shields.io/badge/GTKWave_/_Surfer-4682B4?style=for-the-badge" alt="GTKWave" />
   <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=PlatformIO&logoColor=white" alt="PlatformIO" />
   <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeMX" />
